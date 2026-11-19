@@ -1,0 +1,6 @@
+node_modules
+test
+scripts
+.git
+*.md
+azure-pipelines.yml

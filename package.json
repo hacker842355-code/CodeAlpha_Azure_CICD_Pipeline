@@ -1,0 +1,12 @@
+{
+  "name": "codealpha-azure-cicd",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sample web app deployed through Azure Pipelines -> ACR -> App Service",
+  "main": "app/server.js",
+  "scripts": {
+    "start": "node app/server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}
